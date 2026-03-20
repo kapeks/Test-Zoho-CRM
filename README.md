@@ -11,7 +11,7 @@ composer
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone <ссылка_на_ваш_репозиторий>
+   git clone https://github.com/kapeks/Test-Zoho-CRM.git
    cd <название_папки>
 2. **Установка**
 composer install
